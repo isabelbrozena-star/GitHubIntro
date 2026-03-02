@@ -34,7 +34,7 @@ Now you can clone your fork to your computer. This works just like cloning from
 git-keeper, but here you get the clone URL from GitHub. On the page for your
 fork (**make sure you are in your fork and not the original repository by
 looking at the URL in the address bar which should contain your username and 
-*not* cs260s24**) click the green "Code" button, and **make sure to select 
+*not* cs260s26**) click the green "Code" button, and **make sure to select 
 SSH**. Copy the URL, and then clone the repository as you would a git-keeper
 assignment. The repository contains Markdown files and Java code, so you can
 open the repository in IntelliJ.
