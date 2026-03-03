@@ -52,8 +52,7 @@ takes you to a page where you can review the changes you have made. You should
 see that `contributors.md` was modified and that your name was added. If
 everything looks good, click on "Create pull request". On the next page you
 should see the title of the pull request filled in with the contents of your
-commit message. Now you can complete the process by pressing "Create pull
-request" again on this page.
+commit message.
 
 Now I would be able to merge your changes into the main repository.
 
